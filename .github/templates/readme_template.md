@@ -4,7 +4,7 @@
 [![License](https://img.shields.io/github/license/Anduin2017/HowToCook)](./LICENSE)
 [![GitHub contributors](https://img.shields.io/github/contributors/Anduin2017/HowToCook)](https://github.com/Anduin2017/HowToCook/graphs/contributors)
 [![npm](https://img.shields.io/npm/v/how-to-cook)](https://www.npmjs.com/package/how-to-cook)
-![Man hours](https://manhours.aiursoft.cn/r/github.com/anduin2017/howtocook.svg)
+[![Man hours](https://manhours.aiursoft.com/r/github.com/Anduin2017/HowToCook.svg)](https://manhours.aiursoft.com/r/github.com/Anduin2017/HowToCook.html)
 [![Docker](https://img.shields.io/badge/docker-latest-blue?logo=docker)](https://github.com/Anduin2017/HowToCook/pkgs/container/how-to-cook)
 [![Join the AnduinOS Community on Revolt](https://img.shields.io/badge/Revolt-Join-fd6671?style=flat-square)](https://rvlt.gg/ndApqZEs)
 
@@ -23,7 +23,7 @@ docker pull ghcr.io/anduin2017/how-to-cook:latest
 docker run -d -p 5000:80 ghcr.io/anduin2017/how-to-cook:latest
 ```
 
-如需下载 PDF 版本，可以在浏览器中访问 [/document.pdf](https://cook.aiursoft.cn/document.pdf)
+如需下载 PDF 版本，可以在浏览器中访问 [/document.pdf](https://cook.aiursoft.com/document.pdf)
 
 ## 如何贡献
 
@@ -49,5 +49,8 @@ docker run -d -p 5000:80 ghcr.io/anduin2017/how-to-cook:latest
 
 ## 衍生作品推荐
 
+- [图像化菜谱：支持在线预览与 PDF 导出](https://king-jingxiang.github.io/HowToCook/)
 - [HowToCook-mcp 让 AI 助手变身私人大厨，为你的一日三餐出谋划策](https://github.com/worryzyy/HowToCook-mcp)
 - [HowToCook-py-mcp 让 AI 助手变身私人大厨，为你的一日三餐出谋划策 (Python)](https://github.com/DusKing1/howtocook-py-mcp)
+- [whatToEat 今天吃什么？的决策工具，帮助你快速选择合适的菜谱。](https://github.com/ryanuo/whatToEat)
+- [厨房计划：开源中文菜谱 API - 由社区贡献，人人可用](https://proj.kitchen)
